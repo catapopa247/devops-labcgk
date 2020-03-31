@@ -10,6 +10,6 @@
         "adminPassword": {
             "value": "Thisisthepassword10!"
         },
-        "storageAccountType": {"value":"Standard_GRS"}
+        "storageAccountType": {"value":"Premium_LRS"}
     }
 }
